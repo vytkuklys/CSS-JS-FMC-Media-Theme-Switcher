@@ -355,15 +355,6 @@ hr {
         max-width: 85rem;
     }
 
-    .header__left,
-    .header__right {
-        padding: 2% 0 3%;
-    }
-   
-    .heading-overview {
-        margin: 3% auto 1.75%;
-    }
-
     .big-box__grid,
     .small-box__grid {
         display: none;
