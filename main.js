@@ -1,3 +1,7 @@
+document.addEventListener('keyup', (event)=> {
+    toggleThemes();
+});
+
 function toggleThemes() {
     let container = document.querySelector(".container");
     let toggleBall = document.querySelector(".toggle-ball");
