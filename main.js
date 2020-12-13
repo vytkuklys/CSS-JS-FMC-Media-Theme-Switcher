@@ -1,6 +1,6 @@
-document.addEventListener('keyup', (event)=> {
-    toggleThemes();
-});
+// document.addEventListener('keyup', (event)=> {
+//     toggleThemes();
+// });
 
 function toggleThemes() {
     let container = document.querySelector(".container");
