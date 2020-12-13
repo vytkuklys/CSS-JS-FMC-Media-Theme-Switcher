@@ -327,7 +327,7 @@ hr {
         padding: 3.5% 0 5%;
     }
 
-    .header_h2 {
+    .header_h2, .heading-overview_h2 {
         font-size: 2rem;
     }
 
@@ -336,8 +336,7 @@ hr {
     }
 
     .heading-overview {
-        margin: 5% auto 3%;
-        font-size: 2rem;
+        margin: 4% auto 2.5%;
     }
 
     .big-box__grid,
@@ -354,7 +353,7 @@ hr {
     .heading-overview {
         max-width: 85rem;
     }
-
+    
     .big-box__grid,
     .small-box__grid {
         display: none;
