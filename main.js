@@ -1,6 +1,8 @@
-// document.addEventListener('keyup', (event)=> {
-//     toggleThemes();
-// });
+document.addEventListener('keyup', (event)=> {
+    if(event.keyCode === 13){
+    toggleThemes();
+    }
+});
 
 function toggleThemes() {
     let container = document.querySelector(".container");
